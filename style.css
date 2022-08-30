@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+header {
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-top: 30px;
+}
+
+nav a {
+    margin: 20px;
+}
+
+section {
+    margin-top: 100px;
+    text-align: center;
+}
